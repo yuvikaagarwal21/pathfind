@@ -1,0 +1,6 @@
+{
+  "name": "Jaipur Smart Route Navigator: A* vs Dijkstra",
+  "description": "Interactive route navigator across famous Jaipur landmarks comparing A* Search and Dijkstra's Algorithm for B.Tech CSE Algorithmic Implementation practicals at Manipal University Jaipur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
